@@ -1,0 +1,3 @@
+XGBoost is one of the most powerful model in the Machine Learning. 
+It is capable of giving the accuracy equal to the ANN model trained on 100 epochs.
+I have tested the accuracy of XGBoost with ANN model(100 epochs) the accuracy found was same of 83.4%
